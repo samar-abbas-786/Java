@@ -1,0 +1,13 @@
+1. Single threat can manage multiple connection.This is possible because of Non-blocking IO model
+
+2. NPM ==> NODE PACKAGE MANAGER
+
+3. Node modules==> It contains all dependencies 
+
+4.For Import ==> const (Any_Name)=require(./(file from which you want to import ))
+ 
+5. For Export ==> module.export=samar;
+
+6. Module_Wrap_Up Function ==> function(exports, requiremodule, __filename, __dirname)
+
+7. Node js automatically wrap any module in above module_Wrap-Up function
